@@ -13,9 +13,9 @@ If you're setting up an AWS account (or you already have one), then you should b
 
 In order for Terraform to work, you will need these variables set, or an AWS credentials file (The default location is $HOME/.aws/credentials on Linux and OS X, or "%USERPROFILE%.aws\credentials" for Windows users):
 
-$ export AWS_ACCESS_KEY_ID="anaccesskey"
-$ export AWS_SECRET_ACCESS_KEY="asecretkey"
-$ export AWS_DEFAULT_REGION="us-east-1"
+* $ export AWS_ACCESS_KEY_ID="anaccesskey"
+* $ export AWS_SECRET_ACCESS_KEY="asecretkey"
+* $ export AWS_DEFAULT_REGION="us-east-1"
 
 ## Getting Started
 
