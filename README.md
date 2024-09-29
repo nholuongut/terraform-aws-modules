@@ -1,6 +1,14 @@
 # Terraform with AWS Modules for all resourcers
 This repository contains common solutions for AWS users implemented as standalone and reusable Terraform modules.
 
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 ## Prerequisites
 
 Download Terraform here. Each download is simply a zip file with a compiled executable enclosed. Extract that executable to the location of your choice and make sure its permissions are right (e.g. chmod 755). Good locations include /usr/local/bin, ~/bin, or %userprofile%/bin if you're a Windows user. Be sure to add this folder to your PATH. For Windows users, you can change your path in the Control Panel, under User Accounts. Choose your own Windows account and choose "Change my environment variables." Edit your PATH variable and add ";%USERPROFILE%\bin" to the end of it (including the semicolon).
@@ -28,13 +36,16 @@ In either case, wherever you clone or download your copy of the repository doesn
 
 Infrastructure as code is a powerful concept. Tracking infrastructure as code reduces mistakes, encourages peer review, and shortens delivery cycles. Even if you have to spend a week cutting your teeth on your first Terraform state, spin it up and destroy it a dozen times. You'll be amazed at what you can do with Terraform and other tools like Packer and Ansible once you get your first project working.
 
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
